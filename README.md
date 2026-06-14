@@ -103,5 +103,5 @@ ENV STREAMLIT_SERVER_ENABLE_CORS=false
 
 ## Author
 
-Dipali Chothmal Pawar
+Dipali Chothmal 
 [GitHub](https://github.com/Dipali-cpu) · [LinkedIn](https://linkedin.com/in/dipali-chothmal-5731b032b) · [Hugging Face](https://huggingface.co/Dipali16)
